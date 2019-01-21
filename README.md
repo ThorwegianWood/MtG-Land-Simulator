@@ -1,5 +1,5 @@
 # MtG  Land Simulator
-![Interface image](https://github.com/ThorwegianWood/MtG-Land-Simulator/blob/master/landsimulator.png)
+![Interface image](https://github.com/ThorwegianWood/MtG-Land-Simulator/blob/master/landsimulator.PNG)
 
 Simulate the early turns of an MtG game to see your chance of casting a certain spell on curve, given your mana base.
 Currently does not treat any dual lands differently, and has no support for cheap card-draw spells that can smooth out your mana curve.
